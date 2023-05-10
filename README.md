@@ -2,7 +2,7 @@
 
 To create postgres container run in CLI _make postgres_
 
-To create database inside docker container run in CLI _make createdb_
+To create database inside docker container run in CLI **make createdb**
 
 To drop database inside docker container run in CLI _make dropdb_
 
