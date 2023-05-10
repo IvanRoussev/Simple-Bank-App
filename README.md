@@ -1,11 +1,11 @@
 # Simple-Bank-App
 
-To create postgres container run in CLI _make postgres_
+To create postgres container run in CLI "**make postgres**"
 
-To create database inside docker container run in CLI **make createdb**
+To create database inside docker container run in CLI "**make createdb**"
 
-To drop database inside docker container run in CLI _make dropdb_
+To drop database inside docker container run in CLI "**make dropdb**"
 
-To migrate Up database run in CLI _make migrateup_
+To migrate Up database run in CLI "**make migrateup**"
 
-To migrate Down database run in CLU _make migratedown_
+To migrate Down database run in CLU "**make migratedown**"
